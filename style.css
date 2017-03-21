@@ -1,3 +1,17 @@
+body{
+	background-color:#e7e7e7;
+}
 .main-title{
 	color: #555;
+	text-align: center;
+}
+
+.test-area{
+	width: 1000px;
+	background-color: #fff;
+	margin:20px auto;
+	min-height: 200px;
+	border-radius: 5px;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
 }
